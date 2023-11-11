@@ -27,7 +27,7 @@
     "@upstash/qstash": "^0.3.0",
     "@vercel/edge": "^0.3.0",
     "accept-language-parser": "1.5.0",
-    "axios": "1.3.4",
+    "axios": "1.6.0",
     "cookies-next": "2.1.1",
     "date-fns": "2.29.3",
     "date-fns-tz": "^2.0.0",
